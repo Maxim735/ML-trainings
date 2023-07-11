@@ -1,6 +1,14 @@
 # ML trainings
 
-Репозиторий с моими решениями задач по машинному обучению. 
+A repository with my solutions to machine learning problems.
 
-## Содержание
-- Linear Regression. Сам ipynb является решением домашки ВШЭ. Задача - **предсказание длительности поездки на такси**. Реализован EDA, работа с картографическими данными, поиск аномалий в данных, а также реализована сама линейная регрессия.
+## Content
+- ml_course - directory with my solutions to machine learning problems
+- dl_course - directory with my solutions to deep learning problems
+
+## dl_course Content
+- several HSE homeworks
+- **Pokemon Classification.** Implement experiments with pre-trained models(mobilenet_v2, resnet_50) with different features.
+
+## ml_course Content.
+- Linear Regression. Ipynb itself is the HSE homework solution. The task is **predicting the duration of a taxi ride**. Implemented EDA, work with cartographic data, search for anomalies in the data, and also implemented linear regression itself.
